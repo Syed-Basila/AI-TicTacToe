@@ -10,6 +10,10 @@ Reset Functionality: The game board resets after a win or a tie, allowing for co
 Demo Video
 [Link to Demo Video]
 
+
+https://github.com/Syed-Basila/AI-TicTacToe/assets/123718024/2681a259-d9c7-4a65-8326-2150616cd5bb
+
+
 ## Installation
 
 ## Install dependencies:
