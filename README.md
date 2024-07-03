@@ -19,16 +19,16 @@ Run the game:
 python tictactoe.py
 ## Code Overview
 TicTacToe Class
-` Initialization `: Sets up the main game window and initializes the game state.
-` create_board `: Creates a 3x3 grid of buttons representing the game board.
-` button_click `: Handles player's move, checks for a win/tie, and triggers the AI's move.
-` ai_move `: Uses the Minimax algorithm to determine the optimal move for the AI.
-` minimax `: Implements the Minimax algorithm to evaluate potential moves.
-` check_win `: Checks the current game state for a win condition.
-` check_win_static `: Static method for checking win conditions during Minimax evaluation.
-` check_tie `: Checks the current game state for a tie condition.
-` check_tie_static `: Static method for checking tie conditions during Minimax evaluation.
-` reset_board `: Resets the game board for a new game.
+- ` Initialization `: Sets up the main game window and initializes the game state.
+- ` create_board `: Creates a 3x3 grid of buttons representing the game board.
+- ` button_click `: Handles player's move, checks for a win/tie, and triggers the AI's move.
+- ` ai_move `: Uses the Minimax algorithm to determine the optimal move for the AI.
+- ` minimax `: Implements the Minimax algorithm to evaluate potential moves.
+- ` check_win `: Checks the current game state for a win condition.
+- ` check_win_static `: Static method for checking win conditions during Minimax evaluation.
+- ` check_tie `: Checks the current game state for a tie condition.
+- ` check_tie_static `: Static method for checking tie conditions during Minimax evaluation.
+- ` reset_board `: Resets the game board for a new game.
 ## Entry Point
 start_game: Initializes the Tkinter root window and starts the main event loop.
 ## Future Improvements
